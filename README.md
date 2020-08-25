@@ -1,4 +1,4 @@
-# JavaMongoDbQuery
+# Java - MongoDb Query
 ## Exercise with mongoDB & Java
 
 ### run dockerized server 
